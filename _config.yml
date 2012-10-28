@@ -1,0 +1,11 @@
+#document settings
+title: Department of Labor Case Study
+description: Lowering the Barrier to Entry to Government Data By Making It Accessible To Developers of all Skill Levels
+url: http://project-open-data.github.com/Labor_OpenData_CaseStudy
+repo_url: https://github.com/project-open-data/Labor_OpenData_CaseStudy
+
+# default build settings for running locally, no need to edit
+server: auto
+safe: true
+pymgemnts: true
+auto: true
